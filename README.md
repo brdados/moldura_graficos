@@ -8,4 +8,4 @@ dentro do script tem duas funções alem do exemplo
 * no arguemento texto, quando texto for grande usar \n para quebrar a linha onde desejar
 
 (2)moldura(diretorio = "molduras", cor = "amarelo")
-ler a moldura do diretorio informado
+* ler a moldura do diretorio informado

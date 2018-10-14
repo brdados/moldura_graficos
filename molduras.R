@@ -17,7 +17,7 @@ chamada <- function(texto = "texo aqui \n com ponto final", cor = "amarelo"){
  top
 }
 
-moldura <- function(diretorio = "molduras", cor = "verde"){
+moldura <- function(diretorio = "molduras", cor = "amarelo"){
    mold <- image_read(paste0(diretorio, "/moldura_", cor, ".png"))
    mold
 }
